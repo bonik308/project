@@ -1,3 +1,3 @@
 # hey
 
-sone apdate
+some apdate
